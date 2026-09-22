@@ -1,6 +1,10 @@
 Team No 9
-Assignment Name Canteen-Food Ordering
+Assignment No 1
+
+Canteen-Food Ordering
+
 Prompt
+
 Create a clean, accurate, professional 3D-style academic diagram set for a Canteen Food Ordering System based on these five features in exactly this order:
 
 Customer Details Menu Items Order Details Order Status Order Cancellation 
